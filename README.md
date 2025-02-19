@@ -39,4 +39,4 @@ Both implementations share the same *DCT pipeline architecture*, which consists 
 | Suitable for Real-Time | Limited                | *Yes* (Low-latency) |
 
 ## Conclusion
-This project demonstrates how *approximate computing* can significantly improve performance and energy efficiency while maintaining reasonable accuracy in *DCT computation. This makes it suitable for **low-power embedded applications* like *image compression (JPEG), video encoding, and DSP systems*.
+This project demonstrates how *approximate computing* can significantly improve performance and energy efficiency while maintaining reasonable accuracy in *DCT computation.* This makes it suitable for *low-power embedded applications* like *image compression (JPEG), video encoding, and DSP systems*.

@@ -2,8 +2,8 @@
 
 ## Overview
 This repository contains two implementations of an *8-point Discrete Cosine Transform (DCT)* pipeline:
-1. *Traditional DCT Implementation: Uses conventional **carry-lookahead adders and standard multipliers*.
-2. *Approximate Arithmetic DCT Implementation: Incorporates **approximate adders and approximate multipliers* to improve area, power, and speed efficiency while maintaining acceptable accuracy.
+1. **Traditional DCT Implementation:** *Uses conventional* *carry-lookahead adders and standard multipliers*.
+2. **Approximate Arithmetic DCT Implementation:** *Incorporates* *approximate adders and approximate multipliers* to improve area, power, and speed efficiency while maintaining acceptable accuracy.
 
 ## Architecture
 Both implementations share the same *DCT pipeline architecture*, which consists of:
